@@ -15,7 +15,7 @@
 		<key>label</key>
 		<string>Upscale</string>
 		<key>icon</key>
-		<string>Upscale.png</string>
+		<string>icon.png</string>
 	</dict>
 </dict>
 </plist>
